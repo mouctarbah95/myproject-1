@@ -1,0 +1,106 @@
+body{
+    background-image: url(img/mountains.jpg);
+    background-position: center center;
+    position: relative;
+}
+
+#main-h1{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 150px;
+    font-size: 60px;
+    width: 100% 
+}
+
+.container{
+    text-align: center;
+    font-style: italic;
+    max-width: 500px;
+    margin: 0px auto;
+    font-size: 25px;
+}
+
+.div-2{
+    text-align: center;
+    font-style: oblique;
+    max-width: 400px;
+    margin: 0px auto;
+    font-size: 25px;
+    
+}
+
+#image{
+    width: 100px;
+    height: auto;
+}
+}
+.main-footer{
+    border-top-style: double;
+    margin-top: 300px;
+}
+
+nav{
+    text-align: center;
+}
+nav li{
+    list-style: none;
+    margin: 1em;
+    display: inline-block;
+}
+nav a{
+    color: white;
+}
+ 
+nav a:hover{
+    color: yellow;
+}
+
+.copy{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+.my-form{
+    padding:20px;
+}
+
+.form-group{
+    padding-bottom:15px;
+}
+
+.my-form label{
+    display: block;
+}
+
+.input{
+    padding:8px;
+    width: 100%;
+}
+
+.my-form textarea{
+    width: 100%
+}
+
+.button{
+    background-color: black;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+}
+
+.button:hover{
+    background:yeloow;
+    color:red;
+}
+
+#contact{
+    color: white;
+    font-size: 50px;
+}
+
+.home{
+    color: white;
+    font-size: 25px
+}
